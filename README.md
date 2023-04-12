@@ -1,5 +1,15 @@
 [![CoreDNS](https://coredns.io/images/CoreDNS_Colour_Horizontal.png)](https://coredns.io)
 
+#Fork - Integration of the following Plugins
+
+[blocklist](github.com/relekang/coredns-blocklist)
+
+[docker](github.com/kevinjqiu/coredns-dockerdiscovery)
+
+[wgsd](https://github.com/jwhited/wgsd)
+
+
+
 [![Documentation](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/coredns/coredns)
 ![CodeQL](https://github.com/coredns/coredns/actions/workflows/codeql-analysis.yml/badge.svg)
 ![Go Tests](https://github.com/coredns/coredns/actions/workflows/go.test.yml/badge.svg)
